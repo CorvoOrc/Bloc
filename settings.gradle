@@ -1,0 +1,3 @@
+rootProject.name = "WitcherBestiary"
+include ':app'
+include ':bloc'

@@ -1,0 +1,6 @@
+package com.example.witcherbestiary.location.description
+
+import com.example.bloc.description.ComponentDescription
+import com.example.witcherbestiary.location.view.description.CreatureLocationViewDescription
+
+interface CreatureLocationDescription : ComponentDescription<CreatureLocationViewDescription>

@@ -1,0 +1,6 @@
+package com.example.witcherbestiary.vulnerable.description
+
+import com.example.bloc.description.ComponentDescription
+import com.example.witcherbestiary.vulnerable.view.description.CreatureVulnerableViewDescription
+
+interface CreatureVulnerableDescription : ComponentDescription<CreatureVulnerableViewDescription>
