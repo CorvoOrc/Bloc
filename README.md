@@ -78,3 +78,7 @@ Screenshots:
 Bluestack:
 <img src="https://github.com/CorvoOrc/Bloc/blob/main/images/witcher_bestiary_main.png">
 <img src="https://github.com/CorvoOrc/Bloc/blob/main/images/witcher_bestiary_details.png">
+
+# Inspired by
+
+https://habr.com/en/company/badoo/blog/463781/
