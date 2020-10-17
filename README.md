@@ -71,6 +71,10 @@ Schema:
 
 <img src="https://github.com/CorvoOrc/Bloc/blob/main/images/WitcherBestiary_Schema.png">
 
+Architecture:
+
+<img src="https://github.com/CorvoOrc/Bloc/blob/main/images/WitcherBestiaryArch.png">
+
 Screenshots:
 
 <img src="https://github.com/CorvoOrc/Bloc/blob/main/images/witcher_bestiary_main_nexus.png" width="256"><img src="https://github.com/CorvoOrc/Bloc/blob/main/images/witcher_bestiary_details_nexus.png" width="256"><img src="https://github.com/CorvoOrc/Bloc/blob/main/images/witcher_bestiary_details_location_nexus.png" width="256">
